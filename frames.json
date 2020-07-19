@@ -13,8 +13,8 @@
 	{
 		"name": "Beach_1",
 		"author": "from_unsplash",
-		"url": "https://drive.google.com/file/d/1WRXr2hb-LoS17SbnGYwFiL9XmvH4Fec_/view?usp=sharing",
-		"thumbnail": "https://drive.google.com/file/d/1rYpoKObwsb55UZeBSJ0ndGrzu3NCdy4t/view?usp=sharing",
+		"url": "https://drive.google.com/file/d/1WRXr2hb-LoS17SbnGYwFiL9XmvH4Fec_/view",
+		"thumbnail": "https://drive.google.com/file/d/1rYpoKObwsb55UZeBSJ0ndGrzu3NCdy4t/view",
 		"collections": "BEACH",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
