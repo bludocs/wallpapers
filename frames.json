@@ -2,8 +2,8 @@
 	{
 		"name": "Flowers_1",
 		"author": "from_unsplash",
-		"url": "https://github.com/bludocs/wallpapers/blob/master/1.jpg",
-		"thumbnail": "https://github.com/bludocs/wallpapers/blob/master/1_tn.jpg",
+		"url": "https://raw.githubusercontent.com/bludocs/wallpapers/master/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/bludocs/wallpapers/master/1_tn.jpg",
 		"collections": "NATURES",
 		"downloadable": true,
                 "copyright": "CreativeCommons Attribution-ShareALike"
