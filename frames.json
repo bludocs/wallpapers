@@ -1,22 +1,39 @@
 [
 	{
-		"name": "Flowers_1",
-		"author": "from_unsplash",
-		"url": "https://raw.githubusercontent.com/bludocs/wallpapers/master/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/bludocs/wallpapers/master/1_tn.jpg",
-		"collections": "NATURES",
+		"name": "Coquelicots",
+		"url": "https://drive.google.com/uc?export=view&id=1nZ8rnbTvy6a21OxnAWo3JqBhT0bNxPNu",
+		"thumbnail": "https://drive.google.com/uc?export=view&id=1KopC_C44kKhm5kzqt8qJKYLsMiLcr5cv",
+		"collections": "NATURE|FLEURS",
 		"downloadable": true,
                 "copyright": "CreativeCommons Attribution-ShareALike"
 		
 		
+		
 	},
+	
 	{
-		"name": "Beach_1",
-		"author": "from_unsplash",
+		"name": "Galets",
 		"url": "https://drive.google.com/uc?export=view&id=1WRXr2hb-LoS17SbnGYwFiL9XmvH4Fec_",
 		"thumbnail": "https://drive.google.com/uc?export=view&id=1rYpoKObwsb55UZeBSJ0ndGrzu3NCdy4t",
-		"collections": "BEACH",
+		"collections": "PLAGE|GRIS",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
+		
+		
+	},
+	
+	{
+		"name": "Travail",
+		"url": "https://drive.google.com/uc?export=view&id=1M1VGwqzxDN_F9Hq0inraMrHPT4AY2r3x",
+		"thumbnail": "https://drive.google.com/uc?export=view&id=1eluxAr69AilSdecz2abuLyUS_vsg9yG0",
+		"collections": "VOYAGES|CHINE",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+		
+		
+	},
+	
+	
+	
+	
 ]
